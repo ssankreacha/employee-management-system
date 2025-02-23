@@ -1,4 +1,4 @@
-# 🏢 Employee Management System (Java)
+# 🏢 Employee Management System
 
 ## 📌 Overview
 The **Employee Management System** is a **Java-based console application** designed to **store, manage, and retrieve employee records** efficiently. It allows users to **add, remove, search, update, and sort employees** while **saving data in a file** for persistence.
